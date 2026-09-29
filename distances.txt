@@ -1,0 +1,8 @@
+Homo sapiens    0.000000
+Pan troglodytes 0.267327    0.000000
+Gorilla gorilla 0.280488    0.290244    0.000000
+Pongo abelii    0.408163    0.399083    0.357477    0.000000
+Macaca mulatta  0.575510    0.572016    0.585020    0.621782    0.000000
+Mus musculus    0.644359    0.657143    0.670412    0.707495    0.707721    0.000000
+Bos taurus  0.612648    0.598394    0.634951    0.669202    0.651163    0.517820    0.000000
+    Homo sapiens    Pan troglodytes Gorilla gorilla Pongo abelii    Macaca mulatta  Mus musculus    Bos taurus
