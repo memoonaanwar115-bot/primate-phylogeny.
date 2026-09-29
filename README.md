@@ -37,4 +37,4 @@ Cytochrome b protein sequences (about 380 amino acids each) from NCBI for 7 anim
 - Try another tree method and compare
 
 ## Tools
-Python, Biopython, Matplotlib, Google Colab. I used an AI assistant for help with the code and ran everything myself.
+Python, Biopython, Matplotlib, Google Colab.
